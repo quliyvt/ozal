@@ -3,8 +3,9 @@ class test
 {
 static void Main()
 {
-Console.WriteLine("Salam dunya");
-MessageBox.Show("Salam dunya4444");
+ int i=0;
+ int b =67;
+
 }
 
 }
